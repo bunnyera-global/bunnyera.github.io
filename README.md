@@ -1,21 +1,19 @@
 # BunnyEra Redirect Hub
 
-This repository powers BunnyEra's GitHub-native redirect system, serving as the public entry point for all brand subdomains.
+This repository powers BunnyEra’s GitHub-native redirect system, serving as the public entry point for all brand subdomains.
 
-## 🔗 Live Site
-[https://bunnyera-global.github.io](https://bunnyera-global.github.io)
+🔗 **Live Site**  
+https://bunnyera-global.github.io
 
-## 🚀 Purpose
-This page automatically redirects users to BunnyEra's main portal at [https://bunnyera.info](https://bunnyera.info), ensuring seamless access across all brand channels.
+🚀 **Purpose**  
+This page automatically redirects users to BunnyEra’s main portal at https://bunnyera.info, ensuring seamless access across all brand channels.
 
-## 🧱 Infrastructure
+🧱 **Infrastructure**
 - GitHub Pages deployment
 - Verified domains: bunnyera.com, bunnyera.org, bunnyera.info
 - Enterprise-grade email system (MX, SPF, DKIM configured)
 - DNS hosted via Cloudflare
 
-## 🛠️ Maintained by
+🛠️ **Maintained by**  
 **BunnyEra Global Ltd.**  
-Enterprise-grade deployment across Cambodia, Hong Kong, Singapore, and the US.
-
----
+Enterprise-grade deployment across Hong Kong, Singapore, and the United States.
